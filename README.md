@@ -20,7 +20,7 @@ I'm a **Full-Stack Engineer** passionate about building AI-powered applications 
 const manoj = {
     code: ["Python", "TypeScript", "JavaScript", "Go", "C++"],
     frontend: ["React", "Next.js", "React Native"],
-    backend: ["Node.js", "FastAPI", "Express", "GraphQL"],
+    backend: ["Node.js", "FastAPI", "Express", "GraphQL", "Java", "Spring Boot"],
     ai_ml: ["TensorFlow", "PyTorch", "LangChain", "RAG", "OpenAI"],
     cloud: ["AWS", "Docker", "Kubernetes"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "Pinecone"],
