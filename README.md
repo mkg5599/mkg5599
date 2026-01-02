@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-gummadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://manojkumargummadi.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gummadm@oregonstate.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manojgummadik@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a **Full-Stack Engineer** passionate about building AI-powered applications 
 
 ```javascript
 const manoj = {
-    code: ["Python", "TypeScript", "JavaScript", "Go", "C++"],
+    code: ["Python", "TypeScript", "JavaScript", "C++"],
     frontend: ["React", "Next.js", "React Native"],
     backend: ["Node.js", "FastAPI", "Express", "GraphQL", "Java", "Spring Boot"],
     ai_ml: ["TensorFlow", "PyTorch", "LangChain", "RAG", "OpenAI"],
@@ -84,7 +84,7 @@ const manoj = {
 
 ## 🌟 Fun Facts
 
-- 🎯 **AWS Certified Cloud Practitioner**
+- 🎯 **AWS Certified Solutions Architect - Associate**
 - 🚀 Currently exploring **Model Context Protocol** for agentic AI
 - 📊 Reduced manual data entry by **60%** through automation
 - 🏗️ Built desktop apps with **PyQt6** and **Plotly** visualizations
